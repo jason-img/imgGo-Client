@@ -1,0 +1,15 @@
+Env: Dev
+PrdEnv:
+  ApiUrl: https://imgo.yourdomain.com
+  User:
+  Pwd:
+  Token:
+  TokenExtTime: 
+  Env: Prd
+DevEnv:
+  ApiUrl: http://localhost:8800
+  User:
+  Pwd:
+  Token:
+  TokenExtTime:
+  Env: Dev
